@@ -1,4 +1,6 @@
 #include <iostream>
 using namespace std;
 
-cout << "penis";
+int main(){
+    cout << "testing";
+}
